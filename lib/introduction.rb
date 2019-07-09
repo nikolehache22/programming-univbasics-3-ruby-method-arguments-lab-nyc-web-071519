@@ -1,2 +1,5 @@
-def introduction = "Hi, my name is #{name}."
+def introduction 
+  name = 
+  print "Hi, my name is #{name}."
+end
 
